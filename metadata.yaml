@@ -1,0 +1,40 @@
+_repo: The-Diary-of-a-U-boat-CommanderWith-an-Introduction-and-Explanatory-Notes-by-Etienne_7947
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mason, Frank H. (Frank Henry)
+    alias: Mason, Frank Henry
+    birthdate: 1876
+    deathdate: 1965
+    gutenberg_agent_id: '33136'
+    url: http://www.gutenberg.org/2009/agents/33136
+creator:
+  author:
+    agent_name: King-Hall, Stephen, Sir
+    alias: King-Hall, William Stephen Richard, Sir
+    birthdate: 1893
+    deathdate: 1966
+    gutenberg_agent_id: '33135'
+    url: http://www.gutenberg.org/2009/agents/33135
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_King-Hall
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'World War, 1914-1918 -- Germany -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Submarines (Ships) -- Fiction'
+- !lcsh 'Sea stories'
+- GITenberg
+title: 'The Diary of a U-boat Commander
+
+  With an Introduction and Explanatory Notes by Etienne'
+url: http://www.gutenberg.org/ebooks/7947
